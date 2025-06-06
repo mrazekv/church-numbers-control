@@ -2,7 +2,7 @@
 Na bázi ESP32 a WIFI. Pro projekt [church-numbers](https://github.com/mrazekv/church-numbers).
 
 
-![alt text](image.png)
+![Ovladač](image.jpg)
 
 ## Hardware
 - [ESP32 (obchod LáskaKit)](https://www.laskakit.cz/iot-esp-32s-2-4ghz-dual-mode-wifi-bluetooth-rev-1--cp2102/)
